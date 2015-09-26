@@ -6,6 +6,8 @@
  * Time: 2:24 PM
  */
 
+echo "th isis the week3a file";
+
 echo "Hello World";
 echo "Good Day!";
 
