@@ -14,3 +14,7 @@ echo "Good Day!";
 if $name = "Christina"; {
     echo "Hello Christina!";
 }
+
+if $name = "Michael"; {
+    echo "Hello Michael!";
+}
